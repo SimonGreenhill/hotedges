@@ -1,0 +1,16 @@
+Package: hotedges
+Title: Hotspot edges
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Simon",
+           middle="J",
+           family = "Greenhill",
+           role = c("aut", "cre"),
+           email = "simon@simon.net.nz",
+           comment = c(ORCID = "0000-0001-7832-6156"))
+Description: Does things for hotspot edges.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
